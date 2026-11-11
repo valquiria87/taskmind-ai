@@ -192,37 +192,27 @@ As imagens abaixo demonstram a organização das tarefas no quadro Kanban do Tre
 
 ### 1. Tarefas a fazer
 
-![Tarefas a fazer no Trello](evidencias/tarefas-a-fazer.png)
+<img width="1916" height="914" alt="print_tarefas_a_fazer" src="https://github.com/user-attachments/assets/7bffa240-5a42-4089-95d1-e1eda8fb399c" />
+
 
 ### 2. Tarefas em andamento
 
-![Tarefas em andamento no Trello](evidencias/tarefas-em-andamento.png)
+<img width="1915" height="912" alt="print_tarefas_em_andamento" src="https://github.com/user-attachments/assets/75bfb05f-6815-49ae-ab12-1f385713837b" />
+
 
 ### 3. Tarefas concluídas
 
-![Tarefas concluídas no Trello](evidencias/tarefas-concluidas.png)
+<img width="1904" height="914" alt="print_tarefas_concluidas" src="https://github.com/user-attachments/assets/8d1c3d09-203a-4045-bb42-e4a0cd9cdb9f" />
+
 
 ## Estrutura do projeto
 
 ```text
 NOME_DO_REPOSITORIO/
-│
-├── task_manager/
-│   ├── __init__.py
-│   ├── agent.py
-│   └── .env.exemplo
-│
-├── evidencias/
-│   ├── tarefas-a-fazer.png
-│   ├── tarefas-em-andamento.png
-│   └── tarefas-concluidas.png
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
+│└── .env.exemplo
+├── README.md
+└── requirements.txt
 ```
-
-*Observação: ajuste a estrutura acima caso os nomes ou a organização das pastas no seu repositório sejam diferentes.*
 
 ## Objetivo do projeto
 
